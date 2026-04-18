@@ -2,7 +2,7 @@
 **Online Retail Dataset**
 ## 📊 Cohort Retention Heatmap
 
-![Cohort Heatmap](screenshots/ScreenshotsUntitled.jpg)
+![Cohort Heatmap](screenshots/Screenshots.jpg)
 ## 📌 Project Overview
 This project analyzes **customer purchasing behavior** for an online retail business using **cohort analysis** to measure customer retention, identify repeat purchase patterns, and understand long-term customer value trends.
 
